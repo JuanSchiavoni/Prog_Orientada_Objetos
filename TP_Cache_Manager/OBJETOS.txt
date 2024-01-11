@@ -1,0 +1,5 @@
+0 Estudiante: 0, 22, student 1
+1 Estudiante: 1, 23, student 2
+2 Estudiante: 2, 25, EZE
+3 Estudiante: 3, 29, student 4
+9 Estudiante: 1, 5, Nine
